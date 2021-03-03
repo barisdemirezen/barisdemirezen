@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış Demirezen</h1>
 <h3 align="center">A curious programmer from Turkey!</h3>
 
-- 🌱 I’m currently learning **Vue.Js, React Native**
+- 🌱 I’m currently learning **Vue.Js, Node.js**
 
 - 📝 I regularly write articles on [https://barisdemirezen.com/yazilarimiz/](https://barisdemirezen.com/yazilarimiz/)
 
