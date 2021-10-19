@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.Js, Node.js**
 
-- 📝 I regularly write articles on [https://barisdemirezen.com/yazilarimiz/](https://barisdemirezen.com/yazilarimiz/)
+- 📝 I regularly write articles on [https://medium.com/@demirezen.bariss](https://medium.com/@demirezen.bariss)
 
 - 📫 How to reach me **demirezen.bariss@gmail.com**
 
