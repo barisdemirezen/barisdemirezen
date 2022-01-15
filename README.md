@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış Demirezen</h1>
 <h3 align="center">A curious programmer from Turkey!</h3>
 
-- 🌱 I’m currently learning **Vue.Js, Node.js**
+- 🌱 I’m currently learning **AMQP, Design Patterns**
 
 - 📝 I regularly write articles on [https://medium.com/@demirezen.bariss](https://medium.com/@demirezen.bariss)
 
